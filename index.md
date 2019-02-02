@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Things I wish I knew when I started
 
-You can use the [editor on GitHub](https://github.com/willcodeforfood/culinary-notes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/willcodeforfood/culinary-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Heat and temperature
+  * ### Why do we need heat in the first place?
+    * #### Browning
+      * Sauteeing vegetables for carmelization
+      * Searing
+        * Maillard reaction on meats
+        * Oil the food, not the pan
+        * There will be smoke. Open a window.
+      * browning on nonstick: it doesn't happen
+    * #### Sanitary reasons
+      * Internal temperature vs Surface temperature
+      * Instant kill temps vs Holding lower temp longer
+      * Vetetables
+        * Bacteria not a major concern, but some need cooking for other reasons:  https://healthyeating.sfgate.com/vegetables-shouldnt-eat-raw-11414.html
+      * Meats
+        * Fish: parasites, bacteria, and botulism
+        * Chicken: Salmonella
+        * Beef: The dangerous stuff on the outside
+        * Pork: FDA recommended temps outdated because that bacteria isn't an issue in farm raised
+      * Killing microbes won't remove toxic byproducts they made (botulism)
+  * ### Heat generation devices/use-cases
+    * Instant pot
+      * Sauteeing in it
+      * Single pot meals -- minimal cleanup
+      * Mashed potatoes!
+      * Sous Vide
+    * Ricecooker
+      * Steam veggies while cooking rice
+    * Crockpot/slowcooker
+      * Use a bag for sticky stuff like queso
+    * The microwave!
+      * Low-and-slow is the key to re-heating food
+      * Add a little water to rice. Leave it on high: rice can take a beating. Works on potatoes, carrots.
+      * Good for pre-boiling water to expedite rice cooker or instantpot cooking
+    * The oven
+      * Pre-heating : the thermostat lies
+      * Low and slow steak like Good Eats
+    * The electric stove
+      * Latency: turning up/down and actual temp change
+  * ### Heat delivery devices/use-cases
+    * Cast iron skillet
+    * Stainless Steel fry pan / skillet
+    * Non-stick fry pan
+  * ### Heat conduction compounds
+    * Water
+    * Ghee (butter minus milk protein)
+    * Butter
+    * Avocado Oil
+    * Canola Oil
+    * Olive Oil: don't do it
+  * ### Measuring devices
+    * Instant read infared
+    * Probe
+    * Oven thermometer
+    * Leave in meat probe
